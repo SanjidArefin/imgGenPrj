@@ -6,8 +6,8 @@ This project develops a framework for generating consistent video frames using a
  2.This project aims to achieve much more efficient and cheaper results by using a hybrid technique.
 
 # Achivements
-1. Achieved 45% lower cost and 26% lower resource consumption with improved consistency across frames 
-2. Utilized algorithm extraction for frame generation and the SSIM loop for video-specific optimization
+1. Achieved 45% lower cost and 26% lower resource consumption with improved consistency across frames.
+2. Utilized algorithm extraction for frame generation and the SSIM loop for video-specific optimization.
 
 # Future Work
 Interface Development: Creating a user friendly interface can make commercial use of this software possible.
