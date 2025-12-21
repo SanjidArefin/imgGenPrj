@@ -8,13 +8,13 @@ Developed an image-to-video generator, which uses a pre-trained model with SSIM-
 
 # To do
 
-1. go to rife folder
+1. go to rife/train_log
 
-2. upload->rife->train_log->flownet.pkl+IFNet_HDv3+RIFE_HDv3
+2. upload flownet.pkl, IFNet_HDv3 RIFE_HDv3 to arXIv2020/train_log
 
-3. upload -> "your_video.mp4" ->arXIv2020
+3. upload  "your_video.mp4"  to arXIv2020
 
-4. go to->arXIv2020->inference_video.py
+4. go to arXIv2020/inference_video.py
 
 5. edit line-> 123 to 127
 
