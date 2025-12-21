@@ -8,7 +8,7 @@ Developed an image-to-video generator, which uses a pre-trained model with SSIM-
 
 # To do
 
-1. From GitHub rife-> CLI usage ->Download the pretrained HD models from here.
+1. go to rife folder
 
 2. upload->rife->train_log->flownet.pkl+IFNet_HDv3+RIFE_HDv3
 
