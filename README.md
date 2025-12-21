@@ -21,9 +21,9 @@ Interface Development: Creating a user friendly interface can make commercial us
 
 4. go to arXIv2020/inference_video.py
 
-5. edit line-> 123 to 127
+5. edit line-> 123 to 124
 
-6. swap with 123 to 126 line->
+6. swap with 123 to 124 line->
 
    
     import imageio.v3 as iio
