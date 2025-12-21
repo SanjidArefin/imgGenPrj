@@ -3,6 +3,7 @@ This project develops a framework for generating consistent video frames using a
 
 # Aim of this project
  1.This project aims to create a video interpolator especially for 3D & 2D animators.
+ 
  2.This project aims to achieve much more efficient and cheaper results by using a hybrid technique.
 
 # Achivements
