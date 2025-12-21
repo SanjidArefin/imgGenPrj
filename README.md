@@ -18,7 +18,9 @@ Developed an image-to-video generator, which uses a pre-trained model with SSIM-
 
 5. edit line-> 123 to 127
 
-6. swap with 123 to 126 line-> 
+6. swap with 123 to 126 line->
+
+   
     import imageio.v3 as iio
     
     videogen = iio.imiter(args.video)
