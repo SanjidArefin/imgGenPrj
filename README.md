@@ -54,15 +54,6 @@ An SSIM feedback loop is used to improve frame consistency, semantic alignment, 
 - Confirm your input video path is valid (for example, `path\to\folder\file1.mp4`).
 - Re-check script arguments and dependency versions, then run again.
 
-## Validation Rules
-
-- Input video path must exist and be readable before processing starts.
-- Required model files must be available before inference runs.
-
-## Conflict Handling
-
-- If an output name already exists, create a new filename using suffixes like `(1)`, `(2)`, and so on.
-
 ## Failure Scenarios
 
 - Model weights are missing or placed in the wrong folder.
